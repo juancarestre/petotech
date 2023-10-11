@@ -1,7 +1,7 @@
 import boto3
 import json
 
-profile_name = 'juan'
+profile_name = 'juan' #Cambia esto si no tienes profiles en tu configuracion de keys de aws
 
 table_name = 'pokemonpro'
 

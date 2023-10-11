@@ -3,7 +3,7 @@ import json
 
 from utils import parse_results
 
-profile_name = 'juan'
+profile_name = 'juan' #Cambia esto si no tienes profiles en tu configuracion de keys de aws
 
 session = boto3.Session(profile_name=profile_name)
 
