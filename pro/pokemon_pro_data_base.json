@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": {"S": "peto"},
+        "sk": {"S": "entrenador#69"},
+        "pk": {"S": "entrenador#69"},
+        "origen": {"S": "medellin"},
+        "gorra": {"S": "[this is fine, aws]"}
+    },
+    {
+        "nombre": {"S": "alakazamcito"},
+        "lsi1": {"S": "psiquico"},
+        "ataque3": {"S": "doblar cuchara"},
+        "ataque2": {"S": "truco de la carta"},
+        "nivel": {"N": "16"},
+        "ataque1": {"S": "Leer mentes"},
+        "razaPokemon": {"S": "alakazam"},
+        "sk": {"S": "pokemon#alakazam#123"},
+        "pk": {"S": "entrenador#69"},
+        "origen": {"S": "marruecos"},
+        "victorias": {"N": "7"}
+    },
+    {
+        "nombre": {"S": "bulba"},
+        "lsi1": {"S": "planta"},
+        "ataque3": {"S": "Rayo solar"},
+        "ataque2": {"S": "Hojas navaja"},
+        "nivel": {"N": "15"},
+        "ataque1": {"S": "Latigo cepa"},
+        "razaPokemon": {"S": "bulbasaur"},
+        "sk": {"S": "pokemon#bulbasaur#553"},
+        "pk": {"S": "entrenador#69"},
+        "origen": {"S": "amazonas"},
+        "victorias": {"N": "2"}
+    },
+    {
+        "nombre": {"S": "perry"},
+        "ataque3": {"S": "Desaparecer"},
+        "ataque2": {"S": "Ganar"},
+        "ataque1": {"S": "Desaparecer"},
+        "razaPokemon": {"S": "ornitorrinco"},
+        "gorra": {"S": "[gorro de espía]"},
+        "origen": {"S": "danville"},
+        "victorias": {"N": "10"},
+        "lsi1": {"S": "rata"},
+        "nivel": {"N": "20"},
+        "sk": {"S": "pokemon#perryelornitorrinco#111"},
+        "pk": {"S": "entrenador#69"}
+    },
+    {
+        "nombre": {"S": "los lokitos"},
+        "pokemon2": {"S": "bulbasaur#553"},
+        "pokemon3": {"S": "perryelornitorrinco#111"},
+        "sk": {"S": "team#entrenador#69"},
+        "pokemon1": {"S": "alakazam#123"},
+        "pk": {"S": "entrenador#69"},
+        "victorias": {"N": "5"}
+    },
+    {
+        "lsi1": {"S": "psiquico"},
+        "ataque3": {"S": "doblar cuchara"},
+        "ataque2": {"S": "truco de la carta"},
+        "ataque1": {"S": "Leer mentes"},
+        "razaPokemon": {"S": "alakazam"},
+        "sk": {"S": "pokemon#alakazam"},
+        "pk": {"S": "pokemon"}
+    },
+    {
+        "lsi1": {"S": "planta"},
+        "ataque3": {"S": "Rayo solar"},
+        "ataque2": {"S": "Hojas navaja"},
+        "ataque1": {"S": "Latigo cepa"},
+        "razaPokemon": {"S": "bulbasaur"},
+        "sk": {"S": "pokemon#bulbasaur"},
+        "pk": {"S": "pokemon"}
+    },
+    {
+        "lsi1": {"S": "dragonsito"},
+        "ataque2": {"S": "ataque de cola"},
+        "ataque1": {"S": "fuego"},
+        "razaPokemon": {"S": "charmander"},
+        "sk": {"S": "pokemon#charmander"},
+        "pk": {"S": "pokemon"}
+    },
+    {
+        "lsi1": {"S": "rata"},
+        "ataque3": {"S": "Desaparecer"},
+        "ataque2": {"S": "Ganar"},
+        "ataque1": {"S": "Desaparecer"},
+        "razaPokemon": {"S": "ornitorrinco"},
+        "sk": {"S": "pokemon#perryelornitorrinco"},
+        "pk": {"S": "pokemon"}
+    },
+    {
+        "lsi1": {"S": "rata"},
+        "ataque3": {"S": "ataque rápido"},
+        "ataque2": {"S": "ataque de cola"},
+        "ataque1": {"S": "impactrueno"},
+        "razaPokemon": {"S": "pikachu"},
+        "sk": {"S": "pokemon#pikachu"},
+        "pk": {"S": "pokemon"}
+    },
+    {
+        "sk": {"S": "team#entrenador#69"},
+        "pokemon1": {"S": "pokemon#alakazam#123"},
+        "pokemon2": {"S": "pokemon#bulbasaur#553"},
+        "pk": {"S": "team#entrenador#69"},
+        "pokemon3": {"S": "pokemon#perryelornitorrinco#111"}
+    }
+
+]

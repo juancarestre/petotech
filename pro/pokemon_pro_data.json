@@ -1,0 +1,109 @@
+[
+    {
+        "nombre": "peto",
+        "sk": "entrenador#69",
+        "pk": "entrenador#69",
+        "origen": "medellin",
+        "gorra": "[this is fine, aws]"
+    },
+    {
+        "nombre": "alakazamcito",
+        "lsi1": "psiquico",
+        "ataque3": "doblar cuchara",
+        "ataque2": "truco de la carta",
+        "nivel": 16,
+        "ataque1": "Leer mentes",
+        "razaPokemon": "alakazam",
+        "sk": "pokemon#alakazam#123",
+        "pk": "entrenador#69",
+        "origen": "marruecos",
+        "victorias": 7
+    },
+    {
+        "nombre": "bulba",
+        "lsi1": "planta",
+        "ataque3": "Rayo solar",
+        "ataque2": "Hojas navaja",
+        "nivel": 15,
+        "ataque1": "Latigo cepa",
+        "razaPokemon": "bulbasaur",
+        "sk": "pokemon#bulbasaur#553",
+        "pk": "entrenador#69",
+        "origen": "amazonas",
+        "victorias": 2
+    },
+    {
+        "nombre": "perry",
+        "ataque3": "Desaparecer",
+        "ataque2": "Ganar",
+        "ataque1": "Desaparecer",
+        "razaPokemon": "ornitorrinco",
+        "gorra": "[gorro de espia]",
+        "origen": "danville",
+        "victorias": 10,
+        "lsi1": "rata",
+        "nivel": 20,
+        "sk": "pokemon#perryelornitorrinco#111",
+        "pk": "entrenador#69"
+    },
+    {
+        "nombre": "los lokitos",
+        "pokemon2": "bulbasaur#553",
+        "pokemon3": "perryelornitorrinco#111",
+        "sk": "team#entrenador#69",
+        "pokemon1": "alakazam#123",
+        "pk": "entrenador#69",
+        "victorias": 5
+    },
+    {
+        "lsi1": "psiquico",
+        "ataque3": "doblar cuchara",
+        "ataque2": "truco de la carta",
+        "ataque1": "Leer mentes",
+        "razaPokemon": "alakazam",
+        "sk": "pokemon#alakazam",
+        "pk": "pokemon"
+    },
+    {
+        "lsi1": "planta",
+        "ataque3": "Rayo solar",
+        "ataque2": "Hojas navaja",
+        "ataque1": "Latigo cepa",
+        "razaPokemon": "bulbasaur",
+        "sk": "pokemon#bulbasaur",
+        "pk": "pokemon"
+    },
+    {
+        "lsi1": "dragonsito",
+        "ataque2": "ataque de cola",
+        "ataque1": "fuego",
+        "razaPokemon": "charmander",
+        "sk": "pokemon#charmander",
+        "pk": "pokemon"
+    },
+    {
+        "lsi1": "rata",
+        "ataque3": "Desaparecer",
+        "ataque2": "Ganar",
+        "ataque1": "Desaparecer",
+        "razaPokemon": "ornitorrinco",
+        "sk": "pokemon#perryelornitorrinco",
+        "pk": "pokemon"
+    },
+    {
+        "lsi1": "rata",
+        "ataque3": "ataque rapido",
+        "ataque2": "ataque de cola",
+        "ataque1": "impactrueno",
+        "razaPokemon": "pikachu",
+        "sk": "pokemon#pikachu",
+        "pk": "pokemon"
+    },
+    {
+        "sk": "team#entrenador#69",
+        "pokemon1": "pokemon#alakazam#123",
+        "pokemon2": "pokemon#bulbasaur#553",
+        "pk": "team#entrenador#69",
+        "pokemon3": "pokemon#perryelornitorrinco#111"
+    }
+]
